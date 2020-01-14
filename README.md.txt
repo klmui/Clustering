@@ -1,0 +1,1 @@
+This repository contains clustering algorithms for Gaussian mixture model-based clustering. It will also contain k-means clustering in the future. These are my own implementations of these algorithms.
